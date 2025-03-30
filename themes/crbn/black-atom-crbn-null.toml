@@ -1,0 +1,64 @@
+[metadata]
+author = "Black Atom Industries"
+name = "Black Atom — CRB ∷ NULL"
+
+[colors]
+foreground = "#d3d9df"
+background = "#0d0d0d"
+cursor_bg = "#ff8357"
+cursor_border = "#ff8357"
+cursor_fg = "#0d0d0d"
+selection_bg = "#3C2D00"
+selection_fg = "#d3d9df"
+split = "#ff8357"
+compose_cursor = "#ff624d"
+scrollbar_thumb = "#a1b5c5"
+
+ansi = [
+  "#131a20", # black
+  "#f33e25", # dark_red
+  "#6ad147", # dark_green
+  "#ee9366", # dark_yellow
+  "#4481ef", # dark_blue
+  "#566575", # dark_magenta
+  "#566575", # dark_cyan
+  "#a1b5c5" # light_gray
+]
+
+brights = [
+  "#566575", # gray
+  "#ff624d", # red
+  "#8bdb70", # green
+  "#ff8357", # yellow
+  "#679cff", # blue
+  "#7b8d9e", # magenta
+  "#7b8d9e", # cyan
+  "#d3d9df" # white
+]
+
+[colors.tab_bar]
+inactive_tab_edge = "#131a20"
+background = "#131a20"
+
+[colors.tab_bar.active_tab]
+fg_color = "#131a20"
+bg_color = "#ff8357"
+intensity = "Bold"
+
+[colors.tab_bar.inactive_tab]
+fg_color = "#131a20"
+bg_color = "#3b4c5c"
+
+[colors.tab_bar.inactive_tab_hover]
+fg_color = "#131a20"
+bg_color = "#253341"
+
+[colors.tab_bar.new_tab]
+fg_color = "#131a20"
+bg_color = "#8bdb70"
+
+[colors.tab_bar.new_tab_hover]
+fg_color = "#131a20"
+bg_color = "#253341"
+intensity = "Bold"
+
