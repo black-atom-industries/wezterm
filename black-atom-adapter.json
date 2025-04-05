@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/black-atom-industries/core/refs/heads/main/adapter.schema.json",
-  
+
   "black-atom-crbn-null": {
     "templates": ["./themes/crbn/black-atom-crbn-null.template.toml"]
   },
@@ -16,17 +16,26 @@
   "black-atom-jpn-tsuki-yoru": {
     "templates": ["./themes/jpn/black-atom-jpn-tsuki-yoru.template.toml"]
   },
+  "black-atom-jpn-murasaki-yoru": {
+    "templates": ["./themes/jpn/black-atom-jpn-murasaki-yoru.template.toml"]
+  },
   "black-atom-stations-engineering": {
-    "templates": ["./themes/stations/black-atom-stations-engineering.template.toml"]
+    "templates": [
+      "./themes/stations/black-atom-stations-engineering.template.toml"
+    ]
   },
   "black-atom-stations-medical": {
     "templates": ["./themes/stations/black-atom-stations-medical.template.toml"]
   },
   "black-atom-stations-operations": {
-    "templates": ["./themes/stations/black-atom-stations-operations.template.toml"]
+    "templates": [
+      "./themes/stations/black-atom-stations-operations.template.toml"
+    ]
   },
   "black-atom-stations-research": {
-    "templates": ["./themes/stations/black-atom-stations-research.template.toml"]
+    "templates": [
+      "./themes/stations/black-atom-stations-research.template.toml"
+    ]
   },
   "black-atom-terra-fall-day": {
     "templates": ["./themes/terra/black-atom-terra-fall-day.template.toml"]
@@ -53,3 +62,4 @@
     "templates": ["./themes/terra/black-atom-terra-winter-night.template.toml"]
   }
 }
+
