@@ -5,12 +5,12 @@ name = "Black Atom — JPN ∷ Murasaki Yoru"
 [colors]
 foreground = "#D4BFD6"
 background = "#332031"
-cursor_bg = "#F7C012"
-cursor_border = "#F7C012"
+cursor_bg = "#e6b119"
+cursor_border = "#e6b119"
 cursor_fg = "#332031"
 selection_bg = "#573954"
 selection_fg = "#D4BFD6"
-split = "#F7C012"
+split = "#e6b119"
 compose_cursor = "#F0635C"
 scrollbar_thumb = "#b796b8"
 
@@ -29,7 +29,7 @@ brights = [
   "#7d5178", # gray
   "#F0635C", # red
   "#6dc29f", # green
-  "#F7C012", # yellow
+  "#e6b119", # yellow
   "#71c0db", # blue
   "#EC6EAA", # magenta
   "#8FBCBB", # cyan
@@ -42,7 +42,7 @@ background = "#20141f"
 
 [colors.tab_bar.active_tab]
 fg_color = "#332031"
-bg_color = "#F7C012"
+bg_color = "#e6b119"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
