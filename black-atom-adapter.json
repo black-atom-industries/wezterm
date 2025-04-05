@@ -1,65 +1,43 @@
 {
   "$schema": "https://raw.githubusercontent.com/black-atom-industries/core/refs/heads/main/adapter.schema.json",
-
-  "black-atom-crbn-null": {
-    "templates": ["./themes/crbn/black-atom-crbn-null.template.toml"]
-  },
-  "black-atom-crbn-supr": {
-    "templates": ["./themes/crbn/black-atom-crbn-supr.template.toml"]
-  },
-  "black-atom-jpn-koyo-hiru": {
-    "templates": ["./themes/jpn/black-atom-jpn-koyo-hiru.template.toml"]
-  },
-  "black-atom-jpn-koyo-yoru": {
-    "templates": ["./themes/jpn/black-atom-jpn-koyo-yoru.template.toml"]
-  },
-  "black-atom-jpn-tsuki-yoru": {
-    "templates": ["./themes/jpn/black-atom-jpn-tsuki-yoru.template.toml"]
-  },
-  "black-atom-jpn-murasaki-yoru": {
-    "templates": ["./themes/jpn/black-atom-jpn-murasaki-yoru.template.toml"]
-  },
-  "black-atom-stations-engineering": {
-    "templates": [
-      "./themes/stations/black-atom-stations-engineering.template.toml"
-    ]
-  },
-  "black-atom-stations-medical": {
-    "templates": ["./themes/stations/black-atom-stations-medical.template.toml"]
-  },
-  "black-atom-stations-operations": {
-    "templates": [
-      "./themes/stations/black-atom-stations-operations.template.toml"
-    ]
-  },
-  "black-atom-stations-research": {
-    "templates": [
-      "./themes/stations/black-atom-stations-research.template.toml"
-    ]
-  },
-  "black-atom-terra-fall-day": {
-    "templates": ["./themes/terra/black-atom-terra-fall-day.template.toml"]
-  },
-  "black-atom-terra-fall-night": {
-    "templates": ["./themes/terra/black-atom-terra-fall-night.template.toml"]
-  },
-  "black-atom-terra-spring-day": {
-    "templates": ["./themes/terra/black-atom-terra-spring-day.template.toml"]
-  },
-  "black-atom-terra-spring-night": {
-    "templates": ["./themes/terra/black-atom-terra-spring-night.template.toml"]
-  },
-  "black-atom-terra-summer-day": {
-    "templates": ["./themes/terra/black-atom-terra-summer-day.template.toml"]
-  },
-  "black-atom-terra-summer-night": {
-    "templates": ["./themes/terra/black-atom-terra-summer-night.template.toml"]
-  },
-  "black-atom-terra-winter-day": {
-    "templates": ["./themes/terra/black-atom-terra-winter-day.template.toml"]
-  },
-  "black-atom-terra-winter-night": {
-    "templates": ["./themes/terra/black-atom-terra-winter-night.template.toml"]
+  "collections": {
+    "jpn": {
+      "template": "./themes/jpn/collection.template.toml",
+      "themes": [
+        "black-atom-jpn-koyo-yoru",
+        "black-atom-jpn-koyo-hiru",
+        "black-atom-jpn-tsuki-yoru",
+        "black-atom-jpn-murasaki-yoru"
+      ]
+    },
+    "stations": {
+      "template": "./themes/stations/collection.template.toml",
+      "themes": [
+        "black-atom-stations-engineering",
+        "black-atom-stations-operations",
+        "black-atom-stations-medical",
+        "black-atom-stations-research"
+      ]
+    },
+    "terra": {
+      "template": "./themes/terra/collection.template.toml",
+      "themes": [
+        "black-atom-terra-spring-day",
+        "black-atom-terra-spring-night",
+        "black-atom-terra-summer-day",
+        "black-atom-terra-summer-night",
+        "black-atom-terra-fall-day",
+        "black-atom-terra-fall-night",
+        "black-atom-terra-winter-day",
+        "black-atom-terra-winter-night"
+      ]
+    },
+    "crbn": {
+      "template": "./themes/crbn/collection.template.toml",
+      "themes": [
+        "black-atom-crbn-null",
+        "black-atom-crbn-supr"
+      ]
+    }
   }
 }
-
