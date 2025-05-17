@@ -4,15 +4,15 @@ name = "Black Atom — JPN ∷ Koyo Yoru"
 
 [colors]
 foreground = "#eccfc5"
-background = "#191724"
+background = "#1d1b2a"
 cursor_bg = "#e4ae67"
 cursor_border = "#e4ae67"
-cursor_fg = "#191724"
+cursor_fg = "#1d1b2a"
 selection_bg = "#332f4a"
 selection_fg = "#eccfc5"
 split = "#e4ae67"
 compose_cursor = "#e27889"
-scrollbar_thumb = "#e0af9f"
+scrollbar_thumb = "#9c98b3"
 
 ansi = [
   "#332f4a", # black
@@ -37,27 +37,27 @@ brights = [
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#100f18"
-background = "#100f18"
+inactive_tab_edge = "#14131e"
+background = "#14131e"
 
 [colors.tab_bar.active_tab]
-fg_color = "#191724"
+fg_color = "#1d1b2a"
 bg_color = "#e4ae67"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#191724"
+fg_color = "#1d1b2a"
 bg_color = "#605872"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#191724"
+fg_color = "#1d1b2a"
 bg_color = "#262337"
 
 [colors.tab_bar.new_tab]
-fg_color = "#191724"
+fg_color = "#1d1b2a"
 bg_color = "#80b29a"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#191724"
+fg_color = "#1d1b2a"
 bg_color = "#262337"
 intensity = "Bold"

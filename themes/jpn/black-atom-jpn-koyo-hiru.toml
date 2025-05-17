@@ -12,7 +12,7 @@ selection_bg = "#eedcc5"
 selection_fg = "#574457"
 split = "#ea9d34"
 compose_cursor = "#db7070"
-scrollbar_thumb = "#735673"
+scrollbar_thumb = "#b398b3"
 
 ansi = [
   "#574457", # black
@@ -22,11 +22,11 @@ ansi = [
   "#aa6f83", # dark_blue
   "#ec935f", # dark_magenta
   "#529e86", # dark_cyan
-  "#aaa7be" # light_gray
+  "#c9b6c9" # light_gray
 ]
 
 brights = [
-  "#6e6a86", # gray
+  "#9a7f9a", # gray
   "#db7070", # red
   "#52ad82", # green
   "#ea9d34", # yellow
@@ -47,7 +47,7 @@ intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
 fg_color = "#f9f2e9"
-bg_color = "#aaa7be"
+bg_color = "#c9b6c9"
 
 [colors.tab_bar.inactive_tab_hover]
 fg_color = "#f9f2e9"

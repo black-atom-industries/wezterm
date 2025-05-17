@@ -12,7 +12,7 @@ selection_bg = "#573954"
 selection_fg = "#D4BFD6"
 split = "#e6a319"
 compose_cursor = "#F0635C"
-scrollbar_thumb = "#b796b8"
+scrollbar_thumb = "#946996"
 
 ansi = [
   "#462c43", # black
