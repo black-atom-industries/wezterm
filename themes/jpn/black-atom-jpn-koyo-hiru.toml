@@ -3,30 +3,30 @@ author = "Black Atom Industries"
 name = "Black Atom — JPN ∷ Koyo Hiru"
 
 [colors]
-foreground = "#574457"
+foreground = "#3a2e3a"
 background = "#f9f2e9"
 cursor_bg = "#ea9d34"
 cursor_border = "#ea9d34"
 cursor_fg = "#f9f2e9"
 selection_bg = "#eedcc5"
-selection_fg = "#574457"
+selection_fg = "#3a2e3a"
 split = "#ea9d34"
 compose_cursor = "#db7070"
-scrollbar_thumb = "#b398b3"
+scrollbar_thumb = "#a88aa8"
 
 ansi = [
-  "#574457", # black
+  "#3a2e3a", # black
   "#c65e53", # dark_red
   "#428a68", # dark_green
   "#de8641", # dark_yellow
   "#aa6f83", # dark_blue
   "#ec935f", # dark_magenta
   "#529e86", # dark_cyan
-  "#c9b6c9" # light_gray
+  "#bea7be" # light_gray
 ]
 
 brights = [
-  "#9a7f9a", # gray
+  "#8f718f", # gray
   "#db7070", # red
   "#52ad82", # green
   "#ea9d34", # yellow
@@ -47,7 +47,7 @@ intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
 fg_color = "#f9f2e9"
-bg_color = "#c9b6c9"
+bg_color = "#bea7be"
 
 [colors.tab_bar.inactive_tab_hover]
 fg_color = "#f9f2e9"
