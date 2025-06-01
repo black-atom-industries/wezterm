@@ -38,7 +38,7 @@ brights = [
 
 [colors.tab_bar]
 inactive_tab_edge = "<%= theme.ui.bg.panel %>"
-background = "<%= theme.ui.bg.panel %>"
+background = "<%= theme.ui.bg.default %>"
 
 [colors.tab_bar.active_tab]
 fg_color = "<%= theme.ui.fg.contrast %>"

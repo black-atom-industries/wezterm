@@ -38,7 +38,7 @@ brights = [
 
 [colors.tab_bar]
 inactive_tab_edge = "#18191b"
-background = "#18191b"
+background = "#212225"
 
 [colors.tab_bar.active_tab]
 fg_color = "#212225"
