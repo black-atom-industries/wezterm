@@ -39,12 +39,12 @@
         "black-atom-crbn-supr"
       ]
     },
-    "nord": {
-      "template": "./themes/nord/collection.template.toml",
+    "north": {
+      "template": "./themes/north/collection.template.toml",
       "themes": [
-        "black-atom-nord-night",
-        "black-atom-nord-dark-night",
-        "black-atom-nord-day"
+        "black-atom-north-night",
+        "black-atom-north-dark-night",
+        "black-atom-north-day"
       ]
     }
   }

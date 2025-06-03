@@ -1,18 +1,18 @@
 [metadata]
 author = "Black Atom Industries"
-name = "Black Atom — NRD ∷ Night"
+name = "Black Atom — NORTH ∷ Day"
 
 [colors]
-foreground = "#ECEFF4"
-background = "#3B4252"
+foreground = "#3B4252"
+background = "#ECEFF4"
 cursor_bg = "#EBCB8B"
 cursor_border = "#EBCB8B"
-cursor_fg = "#3B4252"
-selection_bg = "#4C566A"
-selection_fg = "#ECEFF4"
+cursor_fg = "#ECEFF4"
+selection_bg = "#ECEFF4"
+selection_fg = "#3B4252"
 split = "#EBCB8B"
 compose_cursor = "#BF616A"
-scrollbar_thumb = "#D8DEE9"
+scrollbar_thumb = "#5E81AC"
 
 ansi = [
   "#434C5E", # black
@@ -37,27 +37,27 @@ brights = [
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#2E3440"
-background = "#3B4252"
+inactive_tab_edge = "#E5E9F0"
+background = "#ECEFF4"
 
 [colors.tab_bar.active_tab]
-fg_color = "#3B4252"
+fg_color = "#ECEFF4"
 bg_color = "#EBCB8B"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#3B4252"
-bg_color = "#5E81AC"
+fg_color = "#ECEFF4"
+bg_color = "#88C0D0"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#3B4252"
-bg_color = "#434C5E"
+fg_color = "#ECEFF4"
+bg_color = "#D8DEE9"
 
 [colors.tab_bar.new_tab]
-fg_color = "#3B4252"
+fg_color = "#ECEFF4"
 bg_color = "#A3BE8C"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#3B4252"
-bg_color = "#434C5E"
+fg_color = "#ECEFF4"
+bg_color = "#D8DEE9"
 intensity = "Bold"
