@@ -5,20 +5,20 @@ name = "Black Atom — NORTH ∷ Day"
 [colors]
 foreground = "#3B4252"
 background = "#e9ecf2"
-cursor_bg = "#D4B882"
-cursor_border = "#D4B882"
+cursor_bg = "#ddbb79"
+cursor_border = "#ddbb79"
 cursor_fg = "#e9ecf2"
-selection_bg = "#ECEFF4"
+selection_bg = "#ced6e3"
 selection_fg = "#3B4252"
-split = "#D4B882"
+split = "#ddbb79"
 compose_cursor = "#B45A63"
-scrollbar_thumb = "#5E81AC"
+scrollbar_thumb = "#4e6f98"
 
 ansi = [
   "#434C5E", # black
   "#A85560", # dark_red
   "#8FA678", # dark_green
-  "#B87A66", # dark_yellow
+  "#c77257", # dark_yellow
   "#52719A", # dark_blue
   "#9D7E99", # dark_magenta
   "#79ACBD", # dark_cyan
@@ -26,10 +26,10 @@ ansi = [
 ]
 
 brights = [
-  "#81A1C1", # gray
+  "#668db4", # gray
   "#B45A63", # red
   "#96AD7F", # green
-  "#D4B882", # yellow
+  "#ddbb79", # yellow
   "#7391B0", # blue
   "#A685A1", # magenta
   "#7FA9A8", # cyan
@@ -42,12 +42,12 @@ background = "#e9ecf2"
 
 [colors.tab_bar.active_tab]
 fg_color = "#e9ecf2"
-bg_color = "#D4B882"
+bg_color = "#ddbb79"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
 fg_color = "#e9ecf2"
-bg_color = "#88C0D0"
+bg_color = "#6eb2c6"
 
 [colors.tab_bar.inactive_tab_hover]
 fg_color = "#e9ecf2"
