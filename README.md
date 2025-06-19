@@ -219,6 +219,9 @@ mkdir -p ~/.config/wezterm/colors
 
 # Create symlinks for all theme files
 find ~/repos/black-atom-industries/wezterm/themes -name "*.toml" -not -name "*.template.toml" -type f -exec ln -sf {} ~/.config/wezterm/colors/ \;
+
+# Or link it to another folder
+find ~/repos/black-atom-industries/wezterm/themes -name "*.toml" -not -name "*.template.toml" -type f -exec ln -sf {} path/to/folder/ \;
 ```
 
 Alternatively, you can create symlinks for specific collections:
