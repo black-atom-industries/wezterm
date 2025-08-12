@@ -1,0 +1,63 @@
+[metadata]
+author = "Black Atom Industries"
+name = "Black Atom — MNM ∷ Mikado Light"
+
+[colors]
+foreground = "#0f212d"
+background = "#d2dbdf"
+cursor_bg = "#cc9700"
+cursor_border = "#cc9700"
+cursor_fg = "#d2dbdf"
+selection_bg = "#a8b9c0"
+selection_fg = "#0f212d"
+split = "#cc9700"
+compose_cursor = "#e64433"
+scrollbar_thumb = "#576a76"
+
+ansi = [
+  "#576a76", # black
+  "#576a76", # dark_red
+  "#576a76", # dark_green
+  "#576a76", # dark_yellow
+  "#cc9700", # dark_blue
+  "#576a76", # dark_magenta
+  "#576a76", # dark_cyan
+  "#576a76" # light_gray
+]
+
+brights = [
+  "#576a76", # gray
+  "#8a9da8", # red
+  "#6c8392", # green
+  "#6c8392", # yellow
+  "#cc9700", # blue
+  "#6c8392", # magenta
+  "#8a9da8", # cyan
+  "#b4c3c9" # white
+]
+
+[colors.tab_bar]
+inactive_tab_edge = "#c3cfd4"
+background = "#d2dbdf"
+
+[colors.tab_bar.active_tab]
+fg_color = "#b4c3c9"
+bg_color = "#cc9700"
+intensity = "Bold"
+
+[colors.tab_bar.inactive_tab]
+fg_color = "#b4c3c9"
+bg_color = "#a8b9c0"
+
+[colors.tab_bar.inactive_tab_hover]
+fg_color = "#b4c3c9"
+bg_color = "#b4c3c9"
+
+[colors.tab_bar.new_tab]
+fg_color = "#b4c3c9"
+bg_color = "#2fd073"
+
+[colors.tab_bar.new_tab_hover]
+fg_color = "#b4c3c9"
+bg_color = "#b4c3c9"
+intensity = "Bold"

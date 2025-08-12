@@ -3,61 +3,61 @@ author = "Black Atom Industries"
 name = "Black Atom — MNM ∷ Mono Light"
 
 [colors]
-foreground = "#1a1a1a"
-background = "#ffffff"
+foreground = "#242424"
+background = "#f3f3f3"
 cursor_bg = "#000000"
 cursor_border = "#000000"
-cursor_fg = "#ffffff"
-selection_bg = "#cccccc"
-selection_fg = "#1a1a1a"
+cursor_fg = "#f3f3f3"
+selection_bg = "#c0c0c0"
+selection_fg = "#242424"
 split = "#000000"
-compose_cursor = "#999999"
-scrollbar_thumb = "#4d4d4d"
+compose_cursor = "#e74c3c"
+scrollbar_thumb = "#5a5a5a"
 
 ansi = [
-  "#000000", # black
-  "#808080", # dark_red
-  "#808080", # dark_green
-  "#808080", # dark_yellow
-  "#808080", # dark_blue
-  "#666666", # dark_magenta
-  "#666666", # dark_cyan
-  "#999999" # light_gray
+  "#5a5a5a", # black
+  "#5a5a5a", # dark_red
+  "#5a5a5a", # dark_green
+  "#5a5a5a", # dark_yellow
+  "#5a5a5a", # dark_blue
+  "#5a5a5a", # dark_magenta
+  "#5a5a5a", # dark_cyan
+  "#333333" # light_gray
 ]
 
 brights = [
-  "#666666", # gray
-  "#999999", # red
-  "#999999", # green
-  "#999999", # yellow
-  "#999999", # blue
-  "#808080", # magenta
-  "#808080", # cyan
-  "#cccccc" # white
+  "#5a5a5a", # gray
+  "#8c8c8c", # red
+  "#737373", # green
+  "#737373", # yellow
+  "#666666", # blue
+  "#737373", # magenta
+  "#8c8c8c", # cyan
+  "#000000" # white
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#f5f5f5"
-background = "#ffffff"
+inactive_tab_edge = "#e1e1e1"
+background = "#f3f3f3"
 
 [colors.tab_bar.active_tab]
-fg_color = "#e6e6e6"
+fg_color = "#cccccc"
 bg_color = "#000000"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#e6e6e6"
-bg_color = "#808080"
+fg_color = "#cccccc"
+bg_color = "#c0c0c0"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#e6e6e6"
+fg_color = "#cccccc"
 bg_color = "#cccccc"
 
 [colors.tab_bar.new_tab]
-fg_color = "#e6e6e6"
-bg_color = "#999999"
+fg_color = "#cccccc"
+bg_color = "#27ae60"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#e6e6e6"
+fg_color = "#cccccc"
 bg_color = "#cccccc"
 intensity = "Bold"
