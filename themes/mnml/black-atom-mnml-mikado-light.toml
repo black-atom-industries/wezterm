@@ -5,34 +5,34 @@ name = "Black Atom — MNM ∷ Mikado Light"
 [colors]
 foreground = "#0f212d"
 background = "#d2dbdf"
-cursor_bg = "#cc9700"
-cursor_border = "#cc9700"
+cursor_bg = "#cc8f00"
+cursor_border = "#cc8f00"
 cursor_fg = "#d2dbdf"
 selection_bg = "#a8b9c0"
 selection_fg = "#0f212d"
-split = "#cc9700"
+split = "#cc8f00"
 compose_cursor = "#e64433"
-scrollbar_thumb = "#576a76"
+scrollbar_thumb = "#4c5d67"
 
 ansi = [
-  "#576a76", # black
-  "#576a76", # dark_red
-  "#576a76", # dark_green
-  "#576a76", # dark_yellow
-  "#cc9700", # dark_blue
-  "#576a76", # dark_magenta
-  "#576a76", # dark_cyan
-  "#576a76" # light_gray
+  "#4c5d67", # black
+  "#4c5d67", # dark_red
+  "#4c5d67", # dark_green
+  "#4c5d67", # dark_yellow
+  "#cc8f00", # dark_blue
+  "#4c5d67", # dark_magenta
+  "#4c5d67", # dark_cyan
+  "#4c5d67" # light_gray
 ]
 
 brights = [
-  "#576a76", # gray
-  "#8a9da8", # red
-  "#6c8392", # green
-  "#6c8392", # yellow
-  "#cc9700", # blue
-  "#6c8392", # magenta
-  "#8a9da8", # cyan
+  "#4c5d67", # gray
+  "#7b919d", # red
+  "#617683", # green
+  "#617683", # yellow
+  "#cc8f00", # blue
+  "#617683", # magenta
+  "#7b919d", # cyan
   "#b4c3c9" # white
 ]
 
@@ -42,7 +42,7 @@ background = "#d2dbdf"
 
 [colors.tab_bar.active_tab]
 fg_color = "#b4c3c9"
-bg_color = "#cc9700"
+bg_color = "#cc8f00"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]

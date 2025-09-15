@@ -17,7 +17,7 @@ scrollbar_thumb = "#55816a"
 ansi = [
   "#416353", # black
   "#ca6d4c", # dark_red
-  "#0d8a4e", # dark_green
+  "#0e9b55", # dark_green
   "#de7b1f", # dark_yellow
   "#3473b2", # dark_blue
   "#B07BAC", # dark_magenta
@@ -28,7 +28,7 @@ ansi = [
 brights = [
   "#62937a", # gray
   "#dd7e5d", # red
-  "#0f9d58", # green
+  "#12b066", # green
   "#e49f19", # yellow
   "#588dc1", # blue
   "#a586c6", # magenta
@@ -55,7 +55,7 @@ bg_color = "#b9c6bf"
 
 [colors.tab_bar.new_tab]
 fg_color = "#d4dcd8"
-bg_color = "#0f9d58"
+bg_color = "#12b066"
 
 [colors.tab_bar.new_tab_hover]
 fg_color = "#d4dcd8"

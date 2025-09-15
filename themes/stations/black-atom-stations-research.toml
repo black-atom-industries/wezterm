@@ -4,15 +4,15 @@ name = "Black Atom — STA ∷ Research"
 
 [colors]
 foreground = "#2b3b33"
-background = "#f0f2f1"
+background = "#f8f9f9"
 cursor_bg = "#66bd0f"
 cursor_border = "#66bd0f"
-cursor_fg = "#f0f2f1"
-selection_bg = "#f7faf9"
+cursor_fg = "#f8f9f9"
+selection_bg = "#e3e8e6"
 selection_fg = "#2b3b33"
 split = "#66bd0f"
 compose_cursor = "#f472a0"
-scrollbar_thumb = "#425953"
+scrollbar_thumb = "#75a490"
 
 ansi = [
   "#384b42", # black
@@ -33,31 +33,31 @@ brights = [
   "#51796d", # blue
   "#998ed9", # magenta
   "#40bf75", # cyan
-  "#f0f2f1" # white
+  "#f8f9f9" # white
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#e2e8e5"
-background = "#f0f2f1"
+inactive_tab_edge = "#edf1ef"
+background = "#f8f9f9"
 
 [colors.tab_bar.active_tab]
-fg_color = "#f0f2f1"
+fg_color = "#f8f9f9"
 bg_color = "#66bd0f"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#f0f2f1"
-bg_color = "#d5dcd9"
+fg_color = "#f8f9f9"
+bg_color = "#95b8ac"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#f0f2f1"
-bg_color = "#f7faf9"
+fg_color = "#f8f9f9"
+bg_color = "#e3e8e6"
 
 [colors.tab_bar.new_tab]
-fg_color = "#f0f2f1"
+fg_color = "#f8f9f9"
 bg_color = "#53aa53"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#f0f2f1"
-bg_color = "#f7faf9"
+fg_color = "#f8f9f9"
+bg_color = "#e3e8e6"
 intensity = "Bold"
