@@ -3,61 +3,61 @@ author = "Black Atom Industries"
 name = "Black Atom — JPN ∷ Koyo Yoru"
 
 [colors]
-foreground = "#eccfc5"
-background = "#1d1b2a"
-cursor_bg = "#e4ae67"
-cursor_border = "#e4ae67"
-cursor_fg = "#1d1b2a"
-selection_bg = "#332f4a"
-selection_fg = "#eccfc5"
-split = "#e4ae67"
-compose_cursor = "#e27889"
+foreground = "#fbcaa4"
+background = "#35293a"
+cursor_bg = "#edaa4b"
+cursor_border = "#edaa4b"
+cursor_fg = "#35293a"
+selection_bg = "#4d4053"
+selection_fg = "#fbcaa4"
+split = "#edaa4b"
+compose_cursor = "#e47889"
 scrollbar_thumb = "#9c98b3"
 
 ansi = [
-  "#332f4a", # black
-  "#ba5d6d", # dark_red
-  "#619f81", # dark_green
-  "#e29f77", # dark_yellow
-  "#ad8593", # dark_blue
-  "#ef9d6c", # dark_magenta
-  "#70a997", # dark_cyan
+  "#4d4053", # black
+  "#d56b7c", # dark_red
+  "#4fa480", # dark_green
+  "#fd9e66", # dark_yellow
+  "#958aab", # dark_blue
+  "#d08c63", # dark_magenta
+  "#719b8f", # dark_cyan
   "#9c98b3" # light_gray
 ]
 
 brights = [
   "#76718f", # gray
-  "#e27889", # red
-  "#80b29a", # green
-  "#e4ae67", # yellow
-  "#a095a8", # blue
-  "#ffb488", # magenta
-  "#91bcaf", # cyan
-  "#eccfc5" # white
+  "#e47889", # red
+  "#5db28d", # green
+  "#edaa4b", # yellow
+  "#a298b9", # blue
+  "#eda77d", # magenta
+  "#7ea99c", # cyan
+  "#fbcaa4" # white
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#14131e"
-background = "#1d1b2a"
+inactive_tab_edge = "#291d2e"
+background = "#35293a"
 
 [colors.tab_bar.active_tab]
-fg_color = "#1d1b2a"
-bg_color = "#e4ae67"
+fg_color = "#35293a"
+bg_color = "#edaa4b"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#1d1b2a"
+fg_color = "#35293a"
 bg_color = "#605872"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#1d1b2a"
-bg_color = "#262337"
+fg_color = "#35293a"
+bg_color = "#413446"
 
 [colors.tab_bar.new_tab]
-fg_color = "#1d1b2a"
-bg_color = "#80b29a"
+fg_color = "#35293a"
+bg_color = "#5db28d"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#1d1b2a"
-bg_color = "#262337"
+fg_color = "#35293a"
+bg_color = "#413446"
 intensity = "Bold"
