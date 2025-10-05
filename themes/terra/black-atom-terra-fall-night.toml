@@ -4,18 +4,18 @@ name = "Black Atom — TER ∷ Fall Night"
 
 [colors]
 foreground = "#f8d2bf"
-background = "#422617"
+background = "#3f281c"
 cursor_bg = "#d68c00"
 cursor_border = "#d68c00"
-cursor_fg = "#422617"
-selection_bg = "#694a39"
+cursor_fg = "#3f281c"
+selection_bg = "#573928"
 selection_fg = "#f8d2bf"
 split = "#d68c00"
 compose_cursor = "#e87969"
 scrollbar_thumb = "#d4b09d"
 
 ansi = [
-  "#4f3222", # black
+  "#493124", # black
   "#d96c5d", # dark_red
   "#889776", # dark_green
   "#e67f3c", # dark_yellow
@@ -37,27 +37,27 @@ brights = [
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#321c11"
-background = "#422617"
+inactive_tab_edge = "#331f16"
+background = "#3f281c"
 
 [colors.tab_bar.active_tab]
-fg_color = "#422617"
+fg_color = "#3f281c"
 bg_color = "#d68c00"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#422617"
+fg_color = "#3f281c"
 bg_color = "#815137"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#422617"
-bg_color = "#4f3222"
+fg_color = "#3f281c"
+bg_color = "#493124"
 
 [colors.tab_bar.new_tab]
-fg_color = "#422617"
+fg_color = "#3f281c"
 bg_color = "#95a483"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#422617"
-bg_color = "#4f3222"
+fg_color = "#3f281c"
+bg_color = "#493124"
 intensity = "Bold"
