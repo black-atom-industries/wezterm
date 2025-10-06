@@ -5,12 +5,12 @@ name = "Black Atom — STA ∷ Research"
 [colors]
 foreground = "#2b3b33"
 background = "#f8f9f9"
-cursor_bg = "#66bd0f"
-cursor_border = "#66bd0f"
+cursor_bg = "#66bd10"
+cursor_border = "#66bd10"
 cursor_fg = "#f8f9f9"
 selection_bg = "#e3e8e6"
 selection_fg = "#2b3b33"
-split = "#66bd0f"
+split = "#66bd10"
 compose_cursor = "#f472a0"
 scrollbar_thumb = "#75a490"
 
@@ -29,7 +29,7 @@ brights = [
   "#5b8972", # gray
   "#f472a0", # red
   "#53aa53", # green
-  "#66bd0f", # yellow
+  "#66bd10", # yellow
   "#51796d", # blue
   "#998ed9", # magenta
   "#40bf75", # cyan
@@ -42,7 +42,7 @@ background = "#f8f9f9"
 
 [colors.tab_bar.active_tab]
 fg_color = "#f8f9f9"
-bg_color = "#66bd0f"
+bg_color = "#66bd10"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]

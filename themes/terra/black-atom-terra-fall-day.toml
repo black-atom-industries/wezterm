@@ -5,12 +5,12 @@ name = "Black Atom — TER ∷ Fall Day"
 [colors]
 foreground = "#422617"
 background = "#f8ddc7"
-cursor_bg = "#d9710a"
-cursor_border = "#d9710a"
+cursor_bg = "#d9710b"
+cursor_border = "#d9710b"
 cursor_fg = "#f8ddc7"
 selection_bg = "#ffe6d2"
 selection_fg = "#422617"
-split = "#d9710a"
+split = "#d9710b"
 compose_cursor = "#bf4d3f"
 scrollbar_thumb = "#815137"
 
@@ -29,7 +29,7 @@ brights = [
   "#9b6a4f", # gray
   "#bf4d3f", # red
   "#6d7e57", # green
-  "#d9710a", # yellow
+  "#d9710b", # yellow
   "#956d57", # blue
   "#a26650", # magenta
   "#4f8375", # cyan
@@ -42,7 +42,7 @@ background = "#f8ddc7"
 
 [colors.tab_bar.active_tab]
 fg_color = "#f8ddc7"
-bg_color = "#d9710a"
+bg_color = "#d9710b"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]

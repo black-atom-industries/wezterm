@@ -3,61 +3,61 @@ author = "Black Atom Industries"
 name = "Black Atom — TER ∷ Winter Night"
 
 [colors]
-foreground = "#ECEFF4"
-background = "#3B4252"
-cursor_bg = "#EBCB8B"
-cursor_border = "#EBCB8B"
-cursor_fg = "#3B4252"
-selection_bg = "#4C566A"
-selection_fg = "#ECEFF4"
-split = "#EBCB8B"
+foreground = "#eceff4"
+background = "#3b4252"
+cursor_bg = "#ebcb8b"
+cursor_border = "#ebcb8b"
+cursor_fg = "#3b4252"
+selection_bg = "#4c566a"
+selection_fg = "#eceff4"
+split = "#ebcb8b"
 compose_cursor = "#d1adad"
-scrollbar_thumb = "#D8DEE9"
+scrollbar_thumb = "#d8dee9"
 
 ansi = [
-  "#434C5E", # black
+  "#434c5e", # black
   "#bf9999", # dark_red
   "#99ad99", # dark_green
-  "#D08770", # dark_yellow
+  "#d08770", # dark_yellow
   "#7a8db8", # dark_blue
   "#a699bf", # dark_magenta
   "#99b8bf", # dark_cyan
-  "#D8DEE9" # light_gray
+  "#d8dee9" # light_gray
 ]
 
 brights = [
   "#6b7c8a", # gray
   "#d1adad", # red
   "#adc7ad", # green
-  "#EBCB8B", # yellow
+  "#ebcb8b", # yellow
   "#94a3d1", # blue
   "#c2add1", # magenta
   "#add1d6", # cyan
-  "#ECEFF4" # white
+  "#eceff4" # white
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#2E3440"
-background = "#3B4252"
+inactive_tab_edge = "#2e3440"
+background = "#3b4252"
 
 [colors.tab_bar.active_tab]
-fg_color = "#3B4252"
-bg_color = "#EBCB8B"
+fg_color = "#3b4252"
+bg_color = "#ebcb8b"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#3B4252"
+fg_color = "#3b4252"
 bg_color = "#5a6b7a"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#3B4252"
-bg_color = "#434C5E"
+fg_color = "#3b4252"
+bg_color = "#434c5e"
 
 [colors.tab_bar.new_tab]
-fg_color = "#3B4252"
+fg_color = "#3b4252"
 bg_color = "#adc7ad"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#3B4252"
-bg_color = "#434C5E"
+fg_color = "#3b4252"
+bg_color = "#434c5e"
 intensity = "Bold"

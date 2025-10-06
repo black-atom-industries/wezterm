@@ -4,60 +4,60 @@ name = "Black Atom — STA ∷ Engineering"
 
 [colors]
 foreground = "#d5f4e3"
-background = "#192422"
-cursor_bg = "#b7db6e"
-cursor_border = "#b7db6e"
-cursor_fg = "#192422"
-selection_bg = "#2d423b"
+background = "#141e1e"
+cursor_bg = "#c6de68"
+cursor_border = "#c6de68"
+cursor_fg = "#141e1e"
+selection_bg = "#263131"
 selection_fg = "#d5f4e3"
-split = "#b7db6e"
+split = "#c6de68"
 compose_cursor = "#f08cb4"
 scrollbar_thumb = "#91bcad"
 
 ansi = [
-  "#21302b", # black
+  "#1c2727", # black
   "#eb7aa8", # dark_red
-  "#5dba5d", # dark_green
-  "#e9b565", # dark_yellow
+  "#64c06a", # dark_green
+  "#e9b64b", # dark_yellow
   "#91bcad", # dark_blue
-  "#8b9dd8", # dark_magenta
-  "#59bf84", # dark_cyan
+  "#999fdb", # dark_magenta
+  "#63bd89", # dark_cyan
   "#91bcad" # light_gray
 ]
 
 brights = [
   "#5b8972", # gray
   "#f08cb4", # red
-  "#80c980", # green
-  "#b7db6e", # yellow
+  "#7fcd81", # green
+  "#c6de68", # yellow
   "#c3eed9", # blue
-  "#9baae6", # magenta
-  "#75d69e", # cyan
+  "#a5a9e5", # magenta
+  "#81d6a5", # cyan
   "#d5f4e3" # white
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#151d1d"
-background = "#192422"
+inactive_tab_edge = "#0e1818"
+background = "#141e1e"
 
 [colors.tab_bar.active_tab]
-fg_color = "#192422"
-bg_color = "#b7db6e"
+fg_color = "#141e1e"
+bg_color = "#c6de68"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#192422"
+fg_color = "#141e1e"
 bg_color = "#51796d"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#192422"
-bg_color = "#21302b"
+fg_color = "#141e1e"
+bg_color = "#1c2727"
 
 [colors.tab_bar.new_tab]
-fg_color = "#192422"
-bg_color = "#80c980"
+fg_color = "#141e1e"
+bg_color = "#7fcd81"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#192422"
-bg_color = "#21302b"
+fg_color = "#141e1e"
+bg_color = "#1c2727"
 intensity = "Bold"

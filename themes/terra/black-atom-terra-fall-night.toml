@@ -3,61 +3,61 @@ author = "Black Atom Industries"
 name = "Black Atom — TER ∷ Fall Night"
 
 [colors]
-foreground = "#f8d2bf"
-background = "#3f281c"
+foreground = "#fbd5c2"
+background = "#221812"
 cursor_bg = "#d68c00"
 cursor_border = "#d68c00"
-cursor_fg = "#3f281c"
-selection_bg = "#573928"
-selection_fg = "#f8d2bf"
+cursor_fg = "#221812"
+selection_bg = "#362b25"
+selection_fg = "#fbd5c2"
 split = "#d68c00"
 compose_cursor = "#e87969"
-scrollbar_thumb = "#d4b09d"
+scrollbar_thumb = "#d9b5a2"
 
 ansi = [
-  "#493124", # black
+  "#2c211b", # black
   "#d96c5d", # dark_red
   "#889776", # dark_green
   "#e67f3c", # dark_yellow
   "#c27e56", # dark_blue
   "#c67a65", # dark_magenta
   "#719b8f", # dark_cyan
-  "#d4b09d" # light_gray
+  "#d9b5a2" # light_gray
 ]
 
 brights = [
-  "#815137", # gray
+  "#86563b", # gray
   "#e87969", # red
   "#95a483", # green
   "#d68c00", # yellow
   "#d08c62", # blue
   "#d4896e", # magenta
   "#7ea99c", # cyan
-  "#f8d2bf" # white
+  "#fbd5c2" # white
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#331f16"
-background = "#3f281c"
+inactive_tab_edge = "#190f0a"
+background = "#221812"
 
 [colors.tab_bar.active_tab]
-fg_color = "#3f281c"
+fg_color = "#221812"
 bg_color = "#d68c00"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#3f281c"
-bg_color = "#815137"
+fg_color = "#221812"
+bg_color = "#86563b"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#3f281c"
-bg_color = "#493124"
+fg_color = "#221812"
+bg_color = "#2c211b"
 
 [colors.tab_bar.new_tab]
-fg_color = "#3f281c"
+fg_color = "#221812"
 bg_color = "#95a483"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#3f281c"
-bg_color = "#493124"
+fg_color = "#221812"
+bg_color = "#2c211b"
 intensity = "Bold"

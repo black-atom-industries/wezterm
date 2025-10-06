@@ -3,19 +3,19 @@ author = "Black Atom Industries"
 name = "Black Atom — TER ∷ Winter Day"
 
 [colors]
-foreground = "#3B4252"
+foreground = "#3b4252"
 background = "#e9ecf2"
 cursor_bg = "#7e8f9c"
 cursor_border = "#7e8f9c"
 cursor_fg = "#e9ecf2"
-selection_bg = "#ECEFF4"
-selection_fg = "#3B4252"
+selection_bg = "#eceff4"
+selection_fg = "#3b4252"
 split = "#7e8f9c"
 compose_cursor = "#5d7ca0"
 scrollbar_thumb = "#4e6f98"
 
 ansi = [
-  "#434C5E", # black
+  "#434c5e", # black
   "#4a6785", # dark_red
   "#5a7085", # dark_green
   "#6b7a8a", # dark_yellow
