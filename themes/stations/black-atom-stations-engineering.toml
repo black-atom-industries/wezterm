@@ -4,10 +4,10 @@ name = "Black Atom — STA ∷ Engineering"
 
 [colors]
 foreground = "#d5f4e3"
-background = "#141e1e"
+background = "#131e1e"
 cursor_bg = "#c6de68"
 cursor_border = "#c6de68"
-cursor_fg = "#141e1e"
+cursor_fg = "#131e1e"
 selection_bg = "#263131"
 selection_fg = "#d5f4e3"
 split = "#c6de68"
@@ -38,26 +38,26 @@ brights = [
 
 [colors.tab_bar]
 inactive_tab_edge = "#0e1818"
-background = "#141e1e"
+background = "#131e1e"
 
 [colors.tab_bar.active_tab]
-fg_color = "#141e1e"
+fg_color = "#131e1e"
 bg_color = "#c6de68"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#141e1e"
+fg_color = "#131e1e"
 bg_color = "#51796d"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#141e1e"
+fg_color = "#131e1e"
 bg_color = "#1c2727"
 
 [colors.tab_bar.new_tab]
-fg_color = "#141e1e"
+fg_color = "#131e1e"
 bg_color = "#7fcd81"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#141e1e"
+fg_color = "#131e1e"
 bg_color = "#1c2727"
 intensity = "Bold"
