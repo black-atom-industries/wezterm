@@ -3,61 +3,61 @@ author = "Black Atom Industries"
 name = "Black Atom — MNM ∷ Orange Light"
 
 [colors]
-foreground = "#2d3438"
-background = "#edf5f9"
-cursor_bg = "#FF6513"
-cursor_border = "#FF6513"
-cursor_fg = "#edf5f9"
-selection_bg = "#bed2dc"
-selection_fg = "#2d3438"
-split = "#FF6513"
-compose_cursor = "#ff4700"
-scrollbar_thumb = "#515c62"
+foreground = "#2e404b"
+background = "#daeffb"
+cursor_bg = "#ff8c00"
+cursor_border = "#ff8c00"
+cursor_fg = "#daeffb"
+selection_bg = "#b4c7d4"
+selection_fg = "#2e404b"
+split = "#ff8c00"
+compose_cursor = "#f57400"
+scrollbar_thumb = "#47687c"
 
 ansi = [
-  "#515c62", # black
-  "#515c62", # dark_red
-  "#515c62", # dark_green
-  "#ff4700", # dark_yellow
-  "#515c62", # dark_blue
-  "#515c62", # dark_magenta
-  "#515c62", # dark_cyan
-  "#515c62" # light_gray
+  "#47687c", # black
+  "#47687c", # dark_red
+  "#47687c", # dark_green
+  "#f57400", # dark_yellow
+  "#47687c", # dark_blue
+  "#47687c", # dark_magenta
+  "#47687c", # dark_cyan
+  "#47687c" # light_gray
 ]
 
 brights = [
-  "#515c62", # gray
-  "#819098", # red
-  "#67767e", # green
-  "#FF6513", # yellow
-  "#5c6470", # blue
-  "#67767e", # magenta
-  "#819098", # cyan
-  "#cddce4" # white
+  "#47687c", # gray
+  "#7295aa", # red
+  "#63859a", # green
+  "#ff8c00", # yellow
+  "#55778b", # blue
+  "#63859a", # magenta
+  "#7295aa", # cyan
+  "#c0d4e1" # white
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#dce9ef"
-background = "#edf5f9"
+inactive_tab_edge = "#cde1ee"
+background = "#daeffb"
 
 [colors.tab_bar.active_tab]
-fg_color = "#cddce4"
-bg_color = "#FF6513"
+fg_color = "#c0d4e1"
+bg_color = "#ff8c00"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#cddce4"
-bg_color = "#bed2dc"
+fg_color = "#c0d4e1"
+bg_color = "#b4c7d4"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#cddce4"
-bg_color = "#cddce4"
+fg_color = "#c0d4e1"
+bg_color = "#c0d4e1"
 
 [colors.tab_bar.new_tab]
-fg_color = "#cddce4"
-bg_color = "#27ae60"
+fg_color = "#c0d4e1"
+bg_color = "#3aa85b"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#cddce4"
-bg_color = "#cddce4"
+fg_color = "#c0d4e1"
+bg_color = "#c0d4e1"
 intensity = "Bold"
