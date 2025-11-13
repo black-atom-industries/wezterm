@@ -4,10 +4,10 @@ name = "Black Atom — MNM ∷ Mikado Light"
 
 [colors]
 foreground = "#0f212d"
-background = "#d2dbdf"
+background = "#c3cfd4"
 cursor_bg = "#cc8f00"
 cursor_border = "#cc8f00"
-cursor_fg = "#d2dbdf"
+cursor_fg = "#c3cfd4"
 selection_bg = "#a8b9c0"
 selection_fg = "#0f212d"
 split = "#cc8f00"
@@ -16,13 +16,13 @@ scrollbar_thumb = "#4c5d67"
 
 ansi = [
   "#4c5d67", # black
-  "#4c5d67", # dark_red
-  "#4c5d67", # dark_green
-  "#4c5d67", # dark_yellow
+  "#7b919d", # dark_red
+  "#617683", # dark_green
+  "#617683", # dark_yellow
   "#cc8f00", # dark_blue
-  "#4c5d67", # dark_magenta
-  "#4c5d67", # dark_cyan
-  "#4c5d67" # light_gray
+  "#617683", # dark_magenta
+  "#7b919d", # dark_cyan
+  "#b4c3c9" # light_gray
 ]
 
 brights = [
@@ -37,8 +37,8 @@ brights = [
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#c3cfd4"
-background = "#d2dbdf"
+inactive_tab_edge = "#b4c3c9"
+background = "#c3cfd4"
 
 [colors.tab_bar.active_tab]
 fg_color = "#b4c3c9"

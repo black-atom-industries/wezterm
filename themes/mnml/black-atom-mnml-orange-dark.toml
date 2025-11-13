@@ -4,25 +4,25 @@ name = "Black Atom — MNM ∷ Orange Dark"
 
 [colors]
 foreground = "#afd4ea"
-background = "#13242e"
+background = "#1f303b"
 cursor_bg = "#fc8e05"
 cursor_border = "#fc8e05"
-cursor_fg = "#13242e"
+cursor_fg = "#1f303b"
 selection_bg = "#384b56"
 selection_fg = "#afd4ea"
 split = "#fc8e05"
 compose_cursor = "#ef632c"
-scrollbar_thumb = "#7295aa"
+scrollbar_thumb = "#63859a"
 
 ansi = [
   "#47687c", # black
-  "#47687c", # dark_red
-  "#47687c", # dark_green
+  "#7295aa", # dark_red
+  "#63859a", # dark_green
   "#f37513", # dark_yellow
-  "#47687c", # dark_blue
-  "#47687c", # dark_magenta
-  "#47687c", # dark_cyan
-  "#47687c" # light_gray
+  "#55778b", # dark_blue
+  "#63859a", # dark_magenta
+  "#7295aa", # dark_cyan
+  "#9fc4da" # light_gray
 ]
 
 brights = [
@@ -37,8 +37,8 @@ brights = [
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#1f303b"
-background = "#13242e"
+inactive_tab_edge = "#13242e"
+background = "#1f303b"
 
 [colors.tab_bar.active_tab]
 fg_color = "#1f303b"
