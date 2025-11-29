@@ -1,0 +1,63 @@
+[metadata]
+author = "Black Atom Industries"
+name = "Black Atom — MNM ∷ E-Ink Dark"
+
+[colors]
+foreground = "#b1b1b1"
+background = "#2e2e2e"
+cursor_bg = "#bdacb0"
+cursor_border = "#bdacb0"
+cursor_fg = "#2e2e2e"
+selection_bg = "#424242"
+selection_fg = "#b1b1b1"
+split = "#bdacb0"
+compose_cursor = "#dd7577"
+scrollbar_thumb = "#747474"
+
+ansi = [
+  "#585858", # black
+  "#808080", # dark_red
+  "#747474", # dark_green
+  "#747474", # dark_yellow
+  "#696969", # dark_blue
+  "#747474", # dark_magenta
+  "#808080", # dark_cyan
+  "#8f8f8f" # light_gray
+]
+
+brights = [
+  "#585858", # gray
+  "#808080", # red
+  "#747474", # green
+  "#747474", # yellow
+  "#696969", # blue
+  "#747474", # magenta
+  "#808080", # cyan
+  "#9e9e9e" # white
+]
+
+[colors.tab_bar]
+inactive_tab_edge = "#242424"
+background = "#2e2e2e"
+
+[colors.tab_bar.active_tab]
+fg_color = "#2e2e2e"
+bg_color = "#bdacb0"
+intensity = "Bold"
+
+[colors.tab_bar.inactive_tab]
+fg_color = "#2e2e2e"
+bg_color = "#424242"
+
+[colors.tab_bar.inactive_tab_hover]
+fg_color = "#2e2e2e"
+bg_color = "#383838"
+
+[colors.tab_bar.new_tab]
+fg_color = "#2e2e2e"
+bg_color = "#a9ba78"
+
+[colors.tab_bar.new_tab_hover]
+fg_color = "#2e2e2e"
+bg_color = "#383838"
+intensity = "Bold"

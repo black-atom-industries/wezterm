@@ -22,7 +22,7 @@ ansi = [
   "#cc8f00", # dark_blue
   "#617683", # dark_magenta
   "#7b919d", # dark_cyan
-  "#b4c3c9" # light_gray
+  "#a8b9c0" # light_gray
 ]
 
 brights = [
