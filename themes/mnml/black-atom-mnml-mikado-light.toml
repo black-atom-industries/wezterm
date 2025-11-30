@@ -33,7 +33,7 @@ brights = [
   "#cc8f00", # blue
   "#617683", # magenta
   "#7b919d", # cyan
-  "#b4c3c9" # white
+  "#a8b9c0" # white
 ]
 
 [colors.tab_bar]
