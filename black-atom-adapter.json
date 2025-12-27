@@ -32,14 +32,6 @@
         "black-atom-terra-winter-night"
       ]
     },
-    "north": {
-      "template": "./themes/north/collection.template.toml",
-      "themes": [
-        "black-atom-north-night",
-        "black-atom-north-dark-night",
-        "black-atom-north-day"
-      ]
-    },
     "mnml": {
       "template": "./themes/mnml/collection.template.toml",
       "themes": [
