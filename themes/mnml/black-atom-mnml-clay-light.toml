@@ -4,11 +4,11 @@ name = "Black Atom — MNM ∷ Clay Light"
 
 [colors]
 foreground = "#322e22"
-background = "#f2efe0"
+background = "#f8f2dc"
 cursor_bg = "#e76b3e"
 cursor_border = "#e76b3e"
-cursor_fg = "#f2efe0"
-selection_bg = "#d2cebf"
+cursor_fg = "#f8f2dc"
+selection_bg = "#ddd8c2"
 selection_fg = "#322e22"
 split = "#e76b3e"
 compose_cursor = "#e76b3e"
@@ -22,7 +22,7 @@ ansi = [
   "#6b634d", # dark_blue
   "#79715a", # dark_magenta
   "#888069", # dark_cyan
-  "#d2cebf" # light_gray
+  "#ddd8c2" # light_gray
 ]
 
 brights = [
@@ -33,31 +33,31 @@ brights = [
   "#6b634d", # blue
   "#79715a", # magenta
   "#888069", # cyan
-  "#d2cebf" # white
+  "#ddd8c2" # white
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#e2ded0"
-background = "#f2efe0"
+inactive_tab_edge = "#ebe5cf"
+background = "#f8f2dc"
 
 [colors.tab_bar.active_tab]
-fg_color = "#e2ded0"
+fg_color = "#ebe5cf"
 bg_color = "#e76b3e"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#e2ded0"
-bg_color = "#d2cebf"
+fg_color = "#ebe5cf"
+bg_color = "#ddd8c2"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#e2ded0"
-bg_color = "#e2ded0"
+fg_color = "#ebe5cf"
+bg_color = "#ebe5cf"
 
 [colors.tab_bar.new_tab]
-fg_color = "#e2ded0"
+fg_color = "#ebe5cf"
 bg_color = "#8aab67"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#e2ded0"
-bg_color = "#e2ded0"
+fg_color = "#ebe5cf"
+bg_color = "#ebe5cf"
 intensity = "Bold"
