@@ -15,18 +15,18 @@ compose_cursor = "#f08cb4"
 scrollbar_thumb = "#91bcad"
 
 ansi = [
-  "#1c2626", # black
+  "#2a3535", # black
   "#eb7aa8", # dark_red
   "#64c06a", # dark_green
   "#e9b64b", # dark_yellow
   "#91bcad", # dark_blue
   "#999fdb", # dark_magenta
   "#63bd89", # dark_cyan
-  "#91bcad" # light_gray
+  "#b2e5cd" # light_gray
 ]
 
 brights = [
-  "#5b8972", # gray
+  "#51796d", # gray
   "#f08cb4", # red
   "#7fcd81", # green
   "#c6de68", # yellow

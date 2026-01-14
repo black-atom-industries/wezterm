@@ -15,14 +15,14 @@ compose_cursor = "#e76b3e"
 scrollbar_thumb = "#5d553f"
 
 ansi = [
-  "#5d553f", # black
+  "#4c473c", # black
   "#888069", # dark_red
   "#79715a", # dark_green
   "#79715a", # dark_yellow
   "#6b634d", # dark_blue
   "#79715a", # dark_magenta
   "#888069", # dark_cyan
-  "#ddd8c2" # light_gray
+  "#ebe5cf" # light_gray
 ]
 
 brights = [
@@ -33,7 +33,7 @@ brights = [
   "#6b634d", # blue
   "#79715a", # magenta
   "#888069", # cyan
-  "#ddd8c2" # white
+  "#f8f2dc" # white
 ]
 
 [colors.tab_bar]
