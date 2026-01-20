@@ -3,34 +3,34 @@ author = "Black Atom Industries"
 name = "Black Atom — Light"
 
 [colors]
-foreground = "#1e2020"
+foreground = "#28292a"
 background = "#ecefef"
 cursor_bg = "#009c67"
 cursor_border = "#009c67"
 cursor_fg = "#ecefef"
 selection_bg = "#d5d8d8"
-selection_fg = "#1e2020"
+selection_fg = "#28292a"
 split = "#009c67"
 compose_cursor = "#c70050"
-scrollbar_thumb = "#5c5e5e"
+scrollbar_thumb = "#51606b"
 
 ansi = [
-  "#313333", # black
-  "#a2a5a5", # dark_red
-  "#8a8d8d", # dark_green
-  "#8a8d8d", # dark_yellow
-  "#727575", # dark_blue
+  "#3c3d3e", # black
+  "#97a7b3", # dark_red
+  "#7f8f9a", # dark_green
+  "#7f8f9a", # dark_yellow
+  "#687782", # dark_blue
   "#007a1f", # dark_magenta
   "#009c67", # dark_cyan
   "#e2e5e5" # light_gray
 ]
 
 brights = [
-  "#5c5e5e", # gray
-  "#a2a5a5", # red
-  "#8a8d8d", # green
-  "#8a8d8d", # yellow
-  "#727575", # blue
+  "#51606b", # gray
+  "#97a7b3", # red
+  "#7f8f9a", # green
+  "#7f8f9a", # yellow
+  "#687782", # blue
   "#007a1f", # magenta
   "#009c67", # cyan
   "#ecefef" # white
