@@ -4,18 +4,18 @@ name = "Black Atom — MNM ∷ E-Ink Dark"
 
 [colors]
 foreground = "#dedede"
-background = "#2e2e2e"
-cursor_bg = "#bdacb0"
-cursor_border = "#bdacb0"
-cursor_fg = "#2e2e2e"
-selection_bg = "#424242"
+background = "#161616"
+cursor_bg = "#d2b5bd"
+cursor_border = "#d2b5bd"
+cursor_fg = "#161616"
+selection_bg = "#2e2e2e"
 selection_fg = "#dedede"
-split = "#bdacb0"
+split = "#d2b5bd"
 compose_cursor = "#dd7577"
 scrollbar_thumb = "#8c8c8c"
 
 ansi = [
-  "#424242", # black
+  "#2e2e2e", # black
   "#a4a4a4", # dark_red
   "#8c8c8c", # dark_green
   "#8c8c8c", # dark_yellow
@@ -37,27 +37,27 @@ brights = [
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#242424"
-background = "#2e2e2e"
+inactive_tab_edge = "#090909"
+background = "#161616"
 
 [colors.tab_bar.active_tab]
-fg_color = "#2e2e2e"
-bg_color = "#bdacb0"
+fg_color = "#161616"
+bg_color = "#d2b5bd"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#2e2e2e"
-bg_color = "#424242"
+fg_color = "#161616"
+bg_color = "#2e2e2e"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#2e2e2e"
-bg_color = "#383838"
+fg_color = "#161616"
+bg_color = "#242424"
 
 [colors.tab_bar.new_tab]
-fg_color = "#2e2e2e"
+fg_color = "#161616"
 bg_color = "#a9ba78"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#2e2e2e"
-bg_color = "#383838"
+fg_color = "#161616"
+bg_color = "#242424"
 intensity = "Bold"
