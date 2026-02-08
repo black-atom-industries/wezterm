@@ -19,10 +19,10 @@ ansi = [
   "#b4ae9c", # dark_red
   "#a49e8d", # dark_green
   "#a49e8d", # dark_yellow
-  "#868070", # dark_blue
+  "#b4ae9c", # dark_blue
   "#a49e8d", # dark_magenta
   "#b4ae9c", # dark_cyan
-  "#d3cebc" # light_gray
+  "#b4ae9c" # light_gray
 ]
 
 brights = [
@@ -30,10 +30,10 @@ brights = [
   "#b4ae9c", # red
   "#a49e8d", # green
   "#a49e8d", # yellow
-  "#868070", # blue
+  "#b4ae9c", # blue
   "#a49e8d", # magenta
   "#b4ae9c", # cyan
-  "#e3decc" # white
+  "#b4ae9c" # white
 ]
 
 [colors.tab_bar]
