@@ -3,26 +3,26 @@ author = "Black Atom Industries"
 name = "Black Atom — Light Dimmed"
 
 [colors]
-foreground = "#28292a"
-background = "#cfd1d1"
-cursor_bg = "#009c67"
-cursor_border = "#009c67"
-cursor_fg = "#cfd1d1"
-selection_bg = "#b5b8b8"
-selection_fg = "#28292a"
-split = "#009c67"
+foreground = "#313334"
+background = "#eef0f2"
+cursor_bg = "#50a648"
+cursor_border = "#50a648"
+cursor_fg = "#eef0f2"
+selection_bg = "#dcdee0"
+selection_fg = "#313334"
+split = "#50a648"
 compose_cursor = "#c70050"
 scrollbar_thumb = "#5c6b76"
 
 ansi = [
-  "#3c3d3e", # black
+  "#4c4d4e", # black
   "#9dadb9", # dark_red
   "#8595a0", # dark_green
   "#8595a0", # dark_yellow
   "#6d7d88", # dark_blue
-  "#007a1f", # dark_magenta
-  "#009c67", # dark_cyan
-  "#c2c5c5" # light_gray
+  "#2f8728", # dark_magenta
+  "#50a648", # dark_cyan
+  "#e4e6e8" # light_gray
 ]
 
 brights = [
@@ -31,33 +31,33 @@ brights = [
   "#8595a0", # green
   "#8595a0", # yellow
   "#6d7d88", # blue
-  "#007a1f", # magenta
-  "#009c67", # cyan
-  "#cfd1d1" # white
+  "#2f8728", # magenta
+  "#50a648", # cyan
+  "#eef0f2" # white
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#c2c5c5"
-background = "#cfd1d1"
+inactive_tab_edge = "#e4e6e8"
+background = "#eef0f2"
 
 [colors.tab_bar.active_tab]
-fg_color = "#c2c5c5"
-bg_color = "#009c67"
+fg_color = "#e4e6e8"
+bg_color = "#50a648"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#c2c5c5"
-bg_color = "#b5b8b8"
+fg_color = "#e4e6e8"
+bg_color = "#dcdee0"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#c2c5c5"
-bg_color = "#c2c5c5"
+fg_color = "#e4e6e8"
+bg_color = "#e4e6e8"
 
 [colors.tab_bar.new_tab]
-fg_color = "#c2c5c5"
+fg_color = "#e4e6e8"
 bg_color = "#008400"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#c2c5c5"
-bg_color = "#c2c5c5"
+fg_color = "#e4e6e8"
+bg_color = "#e4e6e8"
 intensity = "Bold"
