@@ -29,7 +29,7 @@ Black Atom includes multiple theme collections, each with dark and light variant
 ### Prerequisites
 
 - [WezTerm](https://wezfurlong.org/wezterm/index.html) terminal emulator
-- [Black Atom Core](https://github.com/black-atom-industries/core) (for development)
+- [Deno](https://deno.land/) runtime (for generating themes)
 
 ### Setup
 
@@ -40,11 +40,10 @@ git clone https://github.com/black-atom-industries/wezterm.git
 cd wezterm
 ```
 
-2. Adapt the theme files using Black Atom Core:
+2. Generate the theme files:
 
 ```bash
-# From the core repository
-black-atom-core generate
+deno task generate
 ```
 
 3. Copy the adapted `.toml` files to your WezTerm configuration directory:
@@ -118,21 +117,17 @@ cp themes/*/*.toml ~/.config/wezterm/colors/
 
 ## Development
 
-### Installing Black Atom Core CLI
+### Generating Themes
 
-To generate themes, you need the Black Atom Core CLI installed:
+Theme files are generated from templates using [Black Atom Core](https://jsr.io/@black-atom/core). You need [Deno](https://deno.land/) installed.
 
 ```bash
-# Clone and enter the core repository
-git clone https://github.com/black-atom-industries/core.git
-cd core
+# Generate all theme files
+deno task generate
 
-# Compile and install the CLI
-deno task cli:compile
-deno task cli:install
+# Or use watch mode for live regeneration
+deno task dev
 ```
-
-This installs the `black-atom-core` binary to `/usr/local/bin`.
 
 ### Theme Format
 
@@ -211,11 +206,10 @@ To create a new template:
 
 ### Adapting Themes
 
-To adapt all themes from the templates, run the `black-atom-core generate` command from the directory of this repository.
+To adapt all themes from the templates:
 
 ```bash
-# Adapt all themes
-black-atom-core generate
+deno task generate
 ```
 
 This will process all template files defined in `black-atom-adapter.json` and create the corresponding `.toml` files.
@@ -255,7 +249,7 @@ ln -sf ~/repos/black-atom-industries/wezterm/themes/stations/black-atom-stations
 With symlinks in place, your workflow becomes:
 
 1. Make changes to templates
-2. Run `black-atom-core generate`
+2. Run `deno task generate`
 3. Restart WezTerm or reload your configuration to see changes immediately
 
 ## Contributing
