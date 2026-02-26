@@ -22,7 +22,7 @@ ansi = [
   "#958aab", # dark_blue
   "#d08c63", # dark_magenta
   "#719b8f", # dark_cyan
-  "#ecbd96" # light_gray
+  "#9c98b3" # light_gray
 ]
 
 brights = [
@@ -33,7 +33,7 @@ brights = [
   "#a298b9", # blue
   "#eda77d", # magenta
   "#7ea99c", # cyan
-  "#fbcaa4" # white
+  "#dcaf87" # white
 ]
 
 [colors.tab_bar]
