@@ -4,60 +4,60 @@ name = "Black Atom — JPN ∷ Murasaki Yoru"
 
 [colors]
 foreground = "#d4bfd6"
-background = "#332031"
-cursor_bg = "#e6a318"
-cursor_border = "#e6a318"
-cursor_fg = "#332031"
-selection_bg = "#573954"
+background = "#351b23"
+cursor_bg = "#dca23a"
+cursor_border = "#dca23a"
+cursor_fg = "#351b23"
+selection_bg = "#5b3e47"
 selection_fg = "#d4bfd6"
-split = "#e6a318"
-compose_cursor = "#f0635c"
+split = "#dca23a"
+compose_cursor = "#ff857b"
 scrollbar_thumb = "#946996"
 
 ansi = [
-  "#573954", # black
-  "#ec362d", # dark_red
-  "#4cb58a", # dark_green
-  "#fe9b15", # dark_yellow
-  "#38a6cd", # dark_blue
-  "#7e5ba2", # dark_magenta
-  "#70a9a8", # dark_cyan
+  "#5b3e47", # black
+  "#ed7668", # dark_red
+  "#72ad91", # dark_green
+  "#e89a47", # dark_yellow
+  "#7ea5b7", # dark_blue
+  "#b9a2d4", # dark_magenta
+  "#62adac", # dark_cyan
   "#946996" # light_gray
 ]
 
 brights = [
   "#7d5178", # gray
-  "#f0635c", # red
-  "#6dc29f", # green
-  "#e6a318", # yellow
-  "#71c0db", # blue
-  "#ec6eaa", # magenta
-  "#8fbcbb", # cyan
+  "#ff857b", # red
+  "#80bda2", # green
+  "#dca23a", # yellow
+  "#8cb6c5", # blue
+  "#d49bb2", # magenta
+  "#72bdbc", # cyan
   "#b796b8" # white
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#20141f"
-background = "#332031"
+inactive_tab_edge = "#250d15"
+background = "#351b23"
 
 [colors.tab_bar.active_tab]
-fg_color = "#332031"
-bg_color = "#e6a318"
+fg_color = "#351b23"
+bg_color = "#dca23a"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#332031"
+fg_color = "#351b23"
 bg_color = "#6d4769"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#332031"
-bg_color = "#462c43"
+fg_color = "#351b23"
+bg_color = "#452a32"
 
 [colors.tab_bar.new_tab]
-fg_color = "#332031"
-bg_color = "#6dc29f"
+fg_color = "#351b23"
+bg_color = "#80bda2"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#332031"
-bg_color = "#462c43"
+fg_color = "#351b23"
+bg_color = "#452a32"
 intensity = "Bold"
