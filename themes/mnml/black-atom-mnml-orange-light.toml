@@ -4,21 +4,21 @@ name = "Black Atom — MNML ∷ Orange Light"
 
 [colors]
 foreground = "#242a2c"
-background = "#d7e0e3"
-cursor_bg = "#ee7c00"
-cursor_border = "#ee7c00"
-cursor_fg = "#d7e0e3"
-selection_bg = "#bdc6c9"
+background = "#f2fafd"
+cursor_bg = "#fc8e06"
+cursor_border = "#fc8e06"
+cursor_fg = "#f2fafd"
+selection_bg = "#e4edf0"
 selection_fg = "#242a2c"
-split = "#ee7c00"
-compose_cursor = "#e76700"
+split = "#fc8e06"
+compose_cursor = "#0795fd"
 scrollbar_thumb = "#585f61"
 
 ansi = [
   "#474e51", # black
   "#9ea6a9", # dark_red
   "#868e90", # dark_green
-  "#e76700", # dark_yellow
+  "#0795fd", # dark_yellow
   "#9ea6a9", # dark_blue
   "#868e90", # dark_magenta
   "#9ea6a9", # dark_cyan
@@ -29,7 +29,7 @@ brights = [
   "#585f61", # gray
   "#9ea6a9", # red
   "#868e90", # green
-  "#ee7c00", # yellow
+  "#fc8e06", # yellow
   "#9ea6a9", # blue
   "#868e90", # magenta
   "#9ea6a9", # cyan
@@ -37,27 +37,27 @@ brights = [
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#cad3d5"
-background = "#d7e0e3"
+inactive_tab_edge = "#ebf3f6"
+background = "#f2fafd"
 
 [colors.tab_bar.active_tab]
-fg_color = "#cad3d5"
-bg_color = "#ee7c00"
+fg_color = "#ebf3f6"
+bg_color = "#fc8e06"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#cad3d5"
-bg_color = "#bdc6c9"
+fg_color = "#ebf3f6"
+bg_color = "#e4edf0"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#cad3d5"
-bg_color = "#cad3d5"
+fg_color = "#ebf3f6"
+bg_color = "#ebf3f6"
 
 [colors.tab_bar.new_tab]
-fg_color = "#cad3d5"
+fg_color = "#ebf3f6"
 bg_color = "#3aa85b"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#cad3d5"
-bg_color = "#cad3d5"
+fg_color = "#ebf3f6"
+bg_color = "#ebf3f6"
 intensity = "Bold"
