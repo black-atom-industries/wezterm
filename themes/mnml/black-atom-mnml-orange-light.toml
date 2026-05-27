@@ -11,7 +11,7 @@ cursor_fg = "#f2fafd"
 selection_bg = "#e4edf0"
 selection_fg = "#242a2c"
 split = "#fc8e06"
-compose_cursor = "#0795fd"
+compose_cursor = "#fa6d38"
 scrollbar_thumb = "#585f61"
 
 ansi = [
