@@ -3,61 +3,61 @@ author = "Black Atom Industries"
 name = "Black Atom — Light"
 
 [colors]
-foreground = "#28292a"
-background = "#eceff1"
-cursor_bg = "#60a259"
-cursor_border = "#60a259"
-cursor_fg = "#eceff1"
-selection_bg = "#d3d6d9"
-selection_fg = "#28292a"
-split = "#60a259"
-compose_cursor = "#c70050"
-scrollbar_thumb = "#576570"
+foreground = "#172822"
+background = "#e6fbf2"
+cursor_bg = "#00b290"
+cursor_border = "#00b290"
+cursor_fg = "#e6fbf2"
+selection_bg = "#d5eae2"
+selection_fg = "#172822"
+split = "#00b290"
+compose_cursor = "#ff50a7"
+scrollbar_thumb = "#50625b"
 
 ansi = [
-  "#28292a", # black
-  "#788288", # dark_red
-  "#bbbec1", # dark_green
-  "#999fa4", # dark_yellow
-  "#788288", # dark_blue
-  "#2f8728", # dark_magenta
-  "#60a259", # dark_cyan
-  "#bbbec1" # light_gray
+  "#172822", # black
+  "#61746c", # dark_red
+  "#849790", # dark_green
+  "#72857e", # dark_yellow
+  "#61746c", # dark_blue
+  "#5981e0", # dark_magenta
+  "#00a292", # dark_cyan
+  "#849790" # light_gray
 ]
 
 brights = [
-  "#576570", # gray
-  "#788288", # red
-  "#bbbec1", # green
-  "#999fa4", # yellow
-  "#788288", # blue
-  "#2f8728", # magenta
-  "#60a259", # cyan
-  "#d3d6d9" # white
+  "#50625b", # gray
+  "#61746c", # red
+  "#849790", # green
+  "#72857e", # yellow
+  "#61746c", # blue
+  "#8d85ed", # magenta
+  "#00b290", # cyan
+  "#d5eae2" # white
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#dbdee1"
-background = "#eceff1"
+inactive_tab_edge = "#dff4ec"
+background = "#e6fbf2"
 
 [colors.tab_bar.active_tab]
-fg_color = "#dbdee1"
-bg_color = "#60a259"
+fg_color = "#dff4ec"
+bg_color = "#00b290"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#dbdee1"
-bg_color = "#d3d6d9"
+fg_color = "#dff4ec"
+bg_color = "#d5eae2"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#dbdee1"
-bg_color = "#d3d6d9"
+fg_color = "#dff4ec"
+bg_color = "#d5eae2"
 
 [colors.tab_bar.new_tab]
-fg_color = "#dbdee1"
-bg_color = "#008400"
+fg_color = "#dff4ec"
+bg_color = "#00a800"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#dbdee1"
-bg_color = "#d3d6d9"
+fg_color = "#dff4ec"
+bg_color = "#d5eae2"
 intensity = "Bold"
