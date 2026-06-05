@@ -4,11 +4,11 @@ name = "Black Atom — MNML ∷ Orange Light"
 
 [colors]
 foreground = "#242a2c"
-background = "#f2fafd"
+background = "#f5f9fb"
 cursor_bg = "#fc8e06"
 cursor_border = "#fc8e06"
-cursor_fg = "#f2fafd"
-selection_bg = "#e4edf0"
+cursor_fg = "#f5f9fb"
+selection_bg = "#e8eced"
 selection_fg = "#242a2c"
 split = "#fc8e06"
 compose_cursor = "#fa6d38"
@@ -37,27 +37,27 @@ brights = [
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#ebf3f6"
-background = "#f2fafd"
+inactive_tab_edge = "#eef3f4"
+background = "#f5f9fb"
 
 [colors.tab_bar.active_tab]
-fg_color = "#ebf3f6"
+fg_color = "#eef3f4"
 bg_color = "#fc8e06"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#ebf3f6"
-bg_color = "#e4edf0"
+fg_color = "#eef3f4"
+bg_color = "#e8eced"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#ebf3f6"
-bg_color = "#ebf3f6"
+fg_color = "#eef3f4"
+bg_color = "#eef3f4"
 
 [colors.tab_bar.new_tab]
-fg_color = "#ebf3f6"
+fg_color = "#eef3f4"
 bg_color = "#3aa85b"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#ebf3f6"
-bg_color = "#ebf3f6"
+fg_color = "#eef3f4"
+bg_color = "#eef3f4"
 intensity = "Bold"
