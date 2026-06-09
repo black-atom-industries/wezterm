@@ -4,60 +4,60 @@ name = "Black Atom — TERRA ∷ Summer Night"
 
 [colors]
 foreground = "#dfcbaa"
-background = "#0a1a10"
+background = "#001b1a"
 cursor_bg = "#bab06f"
 cursor_border = "#bab06f"
-cursor_fg = "#0a1a10"
-selection_bg = "#334133"
+cursor_fg = "#001b1a"
+selection_bg = "#2a433a"
 selection_fg = "#dfcbaa"
 split = "#bab06f"
 compose_cursor = "#c88f7b"
-scrollbar_thumb = "#a0a27e"
+scrollbar_thumb = "#94a585"
 
 ansi = [
-  "#334133", # black
+  "#2a433a", # black
   "#c88b94", # dark_red
   "#6c8c4a", # dark_green
   "#d6a177", # dark_yellow
-  "#5f8d68", # dark_blue
+  "#6b8971", # dark_blue
   "#92768f", # dark_magenta
   "#4b8f7e", # dark_cyan
   "#baad8a" # light_gray
 ]
 
 brights = [
-  "#394e35", # gray
+  "#2e503e", # gray
   "#c88f7b", # red
   "#96a85e", # green
   "#bab06f", # yellow
-  "#7dac86", # blue
+  "#89a88e", # blue
   "#ba929d", # magenta
-  "#6dae97", # cyan
+  "#6aae9c", # cyan
   "#dfcbaa" # white
 ]
 
 [colors.tab_bar]
-inactive_tab_edge = "#021109"
-background = "#0a1a10"
+inactive_tab_edge = "#001113"
+background = "#001b1a"
 
 [colors.tab_bar.active_tab]
-fg_color = "#0a1a10"
+fg_color = "#001b1a"
 bg_color = "#bab06f"
 intensity = "Bold"
 
 [colors.tab_bar.inactive_tab]
-fg_color = "#0a1a10"
-bg_color = "#394e35"
+fg_color = "#001b1a"
+bg_color = "#2e503e"
 
 [colors.tab_bar.inactive_tab_hover]
-fg_color = "#0a1a10"
-bg_color = "#152318"
+fg_color = "#001b1a"
+bg_color = "#092520"
 
 [colors.tab_bar.new_tab]
-fg_color = "#0a1a10"
+fg_color = "#001b1a"
 bg_color = "#96a85e"
 
 [colors.tab_bar.new_tab_hover]
-fg_color = "#0a1a10"
-bg_color = "#152318"
+fg_color = "#001b1a"
+bg_color = "#092520"
 intensity = "Bold"
